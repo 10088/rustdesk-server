@@ -6,4 +6,4 @@ If you are looking for an open source implementation, please go to [rustdesk-ser
 
 [Download](https://github.com/rustdesk/rustdesk-server/releases)
 
-[Doc](https://rustdesk.com/docs/)
+[Doc](https://rustdesk.com/docs/en/self-host)
